@@ -1,0 +1,12 @@
+{
+  "name": "nodejs-pushnotifications-app",
+  "version": "1.0.0",
+  "main": "fcm.js",
+  "scripts": {},
+  "author": "Victor Andrade de Oliveira",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "fcm-node": "^1.6.1"
+  }
+}
